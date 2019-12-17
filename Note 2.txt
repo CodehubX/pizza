@@ -1,0 +1,1 @@
+If nothing shows on the screen after program has loaded, press F5

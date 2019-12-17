@@ -1,0 +1,63 @@
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\bin\Debug\Pizza Company.exe.config
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\bin\Debug\Pizza Company.exe
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\bin\Debug\Pizza Company.pdb
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\bin\Debug\Pizza Company.xml
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza Company.vbprojResolveAssemblyReference.cache
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form1.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Resources.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza Company.vbproj.GenerateResource.Cache
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza Company.exe
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza Company.xml
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza Company.pdb
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form2.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form3.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form4.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form5.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form6.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form7.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form8.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form9.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form10.resources
+D:\Ridwan\college work\Anthony\Assignment 2\Pizza Company\Pizza Company\obj\Debug\Pizza_Company.Form11.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.exe.config
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.exe
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.pdb
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.xml
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.vbprojResolveAssemblyReference.cache
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form1.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form10.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form11.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form8.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form2.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form3.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form4.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form5.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form6.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form7.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form9.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Resources.resources
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.vbproj.GenerateResource.Cache
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.exe
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.xml
+D:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.pdb
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.exe.config
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.exe
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.xml
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.pdb
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.exe
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.pdb
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\bin\Debug\Pizza Company.xml
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.vbprojResolveAssemblyReference.cache
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form1.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form10.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form11.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form8.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form2.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form3.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form4.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form5.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form6.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form7.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Form9.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza_Company.Resources.resources
+J:\1) College Work\Anthony\Unit 14 Procedural Programming (VB)\Assignment 2\Assignment 2 - to submit\Pizza Company\obj\Debug\Pizza Company.vbproj.GenerateResource.Cache
